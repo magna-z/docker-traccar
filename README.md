@@ -1,5 +1,7 @@
 Traccar
 ---
+### DEPRECATED! Please use the official image [traccar/traccar](https://hub.docker.com/r/traccar/traccar/).
+
 Modern GPS Tracking Platform
 
 Official website: <https://www.traccar.org>  
